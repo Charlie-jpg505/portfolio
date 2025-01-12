@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    color: rgb(86, 126, 86);
+    text-align: justify-right;
+}
+h1{
+    color:#5b7f5b;
+    display: right;
+}
+.linkminusheader{
+    text-decoration-color: rgb(202, 202, 83);
+}
+.linkminusheader:hover {
+color: rgb(204, 204, 21);
+}
